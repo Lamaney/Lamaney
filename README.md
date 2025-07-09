@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm work as a Backend Developer at Caretta.<br>- 📚 I'm currently learning  Dotnet Core<br>- ⚡ In my free time I'm learning Unity</p>
+<p align="left">- 🔭 I'm work as a Backend Developer.<br>- 📚 I'm currently learning  Dotnet Core<br>- ⚡ In my free time I'm learning Unity</p>
 
 ###
 
